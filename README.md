@@ -44,3 +44,113 @@ The tool allows the user to:
   }
 }
 ```
+
+## Example Output
+Passing example:
+```
+{
+  "overall_passed": true,
+  "all_checks": [
+    {
+      "path": "userId",
+      "check_type": "required",
+      "passed": true
+    },
+    {
+      "path": "id",
+      "check_type": "required",
+      "passed": true
+    },
+    {
+      "path": "title",
+      "check_type": "required",
+      "passed": true
+    },
+    {
+      "path": "body",
+      "check_type": "required",
+      "passed": true
+    },
+    {
+      "path": "userId",
+      "check_type": "type",
+      "expected_type": "integer",
+      "passed": true
+    },
+    {
+      "path": "id",
+      "check_type": "type",
+      "expected_type": "integer",
+      "passed": true
+    },
+    {
+      "path": "title",
+      "check_type": "type",
+      "expected_type": "string",
+      "passed": true
+    },
+    {
+      "path": "body",
+      "check_type": "type",
+      "expected_type": "string",
+      "passed": true
+    }
+  ]
+}
+
+Failing example:
+```
+{
+  "overall_passed": false,
+  "all_checks": [
+    {
+      "path": "userId",
+      "check_type": "required",
+      "passed": true
+    },
+    {
+      "path": "id",
+      "check_type": "required",
+      "passed": true
+    },
+    {
+      "path": "title",
+      "check_type": "required",
+      "passed": true
+    },
+    {
+      "path": "body",
+      "check_type": "required",
+      "passed": false,
+      "reason": "missing key"
+    },
+    {
+      "path": "userId",
+      "check_type": "type",
+      "expected_type": "integer",
+      "passed": false,
+      "reason": "wrong type",
+      "actual_type": "str"
+    },
+    {
+      "path": "id",
+      "check_type": "type",
+      "expected_type": "integer",
+      "passed": true
+    },
+    {
+      "path": "title",
+      "check_type": "type",
+      "expected_type": "string",
+      "passed": true
+    },
+    {
+      "path": "body",
+      "check_type": "type",
+      "expected_type": "string",
+      "passed": false,
+      "reason": "missing key"
+    }
+  ]
+}
+```
