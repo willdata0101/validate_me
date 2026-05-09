@@ -97,6 +97,7 @@ Passing example:
     }
   ]
 }
+```
 
 Failing example:
 ```
