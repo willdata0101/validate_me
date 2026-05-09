@@ -15,3 +15,27 @@ The tool allows the user to:
 - Support array/list indexing (movies[0].title)
 - Generate structured JSON validation reports
 - CLI workflow for API/Postman testing
+
+## Example JSON response
+{
+    "userId": 1,
+    "id": 1,
+    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+}
+
+## Example JSON rules file
+{
+  "required_keys": [
+    "userId",
+    "id",
+    "title",
+    "body"
+  ],
+  "expected_types": {
+    "userId": "integer",
+    "id": "integer",
+    "title": "string",
+    "body": "string"
+  }
+}
