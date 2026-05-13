@@ -1,0 +1,14 @@
+{
+  "required_keys": [
+    "userId",
+    "id",
+    "title",
+    "body"
+  ],
+  "expected_types": {
+    "userId": "integer",
+    "id": "integer",
+    "title": "string",
+    "body": "string"
+  }
+}
