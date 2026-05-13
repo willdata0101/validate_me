@@ -155,3 +155,12 @@ Failing example:
   ]
 }
 ```
+
+## Lessons Learned
+Building this API validation tool forced me to learn many key skills, most notably:
+- Nested JSON traversal
+- List index validation
+- CLI argument parsing with argparse
+- JSON schema logic
+- Debugging validation edge cases
+
