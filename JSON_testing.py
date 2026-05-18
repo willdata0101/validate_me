@@ -2,6 +2,8 @@
 import json
 import argparse
 from nested_json import get_json_value
+from cli_design import display_report
+
 def validate_response(response, rules):
     """
     Takes an API response in JSON format and checks it against a rules JSON file.
@@ -32,7 +34,11 @@ def validate_response(response, rules):
     # Mapping dictionary
     type_dict = {
         "string": str,
-        "integer": int
+        "integer": int,
+        "number": (int, float),
+        "object": dict,
+        "array": list,
+        "boolean": bool
     }
 
     type_check_list = []
@@ -87,12 +93,21 @@ def main():
             return json.load(f)
         
     response_data = load_json(args.response)
+    print(response_data.keys())
     rules_data = load_json(args.rules)
 
     results = validate_response(response_data, rules_data)
 
-    results_json = json.dumps(results, indent=2)
-    print(results_json)
+    overall_passed = results["overall_passed"]
+    all_checks = results["all_checks"]
+
+    # Pre-retro CLI code (commented out for now)
+    # results_json = json.dumps(results, indent=2)
+    # print(results_json)
+
+    display_report(all_checks, overall_passed)
+
+
 
 if __name__ == "__main__":
     main()

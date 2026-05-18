@@ -1,0 +1,5252 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "Neon Quest 1",
+      "platform": "Genesis",
+      "release_year": 1987,
+      "developer": {
+        "name": "Studio 8",
+        "country": "Japan"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 30,
+        "price": 65.49
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.8
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Neon Quest 2",
+      "platform": "Arcade",
+      "release_year": 1992,
+      "developer": {
+        "name": "Studio 22",
+        "country": "US"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 43,
+        "price": 67.08
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Neon Quest 3",
+      "platform": "Game Boy",
+      "release_year": 1989,
+      "developer": {
+        "name": "Studio 17",
+        "country": "Japan"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 80,
+        "price": 49.32
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.2
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Neon Quest 4",
+      "platform": "SNES",
+      "release_year": 1985,
+      "developer": {
+        "name": "Studio 23",
+        "country": "Japan"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 3,
+        "price": 65.92
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.9
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Neon Quest 5",
+      "platform": "Game Boy",
+      "release_year": 1989,
+      "developer": {
+        "name": "Studio 23",
+        "country": "UK"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 45,
+        "price": 64.24
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.4
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Neon Quest 6",
+      "platform": "NES",
+      "release_year": 1986,
+      "developer": {
+        "name": "Studio 12",
+        "country": "UK"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 23,
+        "price": 71.8
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.8
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Neon Quest 7",
+      "platform": "SNES",
+      "release_year": 1989,
+      "developer": {
+        "name": "Studio 8",
+        "country": "Japan"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 24,
+        "price": 76.97
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.1
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Neon Quest 8",
+      "platform": "Arcade",
+      "release_year": 1991,
+      "developer": {
+        "name": "Studio 13",
+        "country": "Japan"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 76,
+        "price": 52.79
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.1
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Neon Quest 9",
+      "platform": "Genesis",
+      "release_year": 1983,
+      "developer": {
+        "name": "Studio 3",
+        "country": "US"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 58,
+        "price": 62.89
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.5
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Neon Quest 10",
+      "platform": "Genesis",
+      "release_year": 1992,
+      "developer": {
+        "name": "Studio 12",
+        "country": "US"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 10,
+        "price": 70.49
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.2
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Neon Quest 11",
+      "platform": "Game Boy",
+      "release_year": 1986,
+      "developer": {
+        "name": "Studio 21",
+        "country": "Japan"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 76,
+        "price": 35.55
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.7
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Neon Quest 12",
+      "platform": "NES",
+      "release_year": 1995,
+      "developer": {
+        "name": "Studio 19",
+        "country": "UK"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 22,
+        "price": 69.46
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.7
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Neon Quest 13",
+      "platform": "NES",
+      "release_year": 1993,
+      "developer": {
+        "name": "Studio 9",
+        "country": "UK"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 93,
+        "price": 77.53
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.7
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Neon Quest 14",
+      "platform": "SNES",
+      "release_year": 1995,
+      "developer": {
+        "name": "Studio 9",
+        "country": "Japan"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 93,
+        "price": 39.9
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.7
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Neon Quest 15",
+      "platform": "NES",
+      "release_year": 1987,
+      "developer": {
+        "name": "Studio 16",
+        "country": "Japan"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 71,
+        "price": 65.79
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.2
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Neon Quest 16",
+      "platform": "SNES",
+      "release_year": 1986,
+      "developer": {
+        "name": "Studio 6",
+        "country": "Japan"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 82,
+        "price": 77.05
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.6
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Neon Quest 17",
+      "platform": "NES",
+      "release_year": 1984,
+      "developer": {
+        "name": "Studio 21",
+        "country": "US"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 40,
+        "price": 77.95
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.9
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Neon Quest 18",
+      "release_year": 1995,
+      "developer": {
+        "name": "Studio 16",
+        "country": "UK"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 98,
+        "price": 21.69
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.4
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Neon Quest 19",
+      "platform": "Arcade",
+      "release_year": 1995,
+      "developer": {
+        "name": "Studio 1",
+        "country": "UK"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 36,
+        "price": 19.76
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.4
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Neon Quest 20",
+      "platform": "SNES",
+      "release_year": 1991,
+      "developer": {
+        "name": "Studio 13",
+        "country": "US"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 49,
+        "price": 34.1
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.9
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Neon Quest 21",
+      "platform": "NES",
+      "release_year": 1995,
+      "developer": {
+        "name": "Studio 23",
+        "country": "US"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 41,
+        "price": 62.33
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.1
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Neon Quest 22",
+      "platform": "Genesis",
+      "release_year": 1989,
+      "developer": {
+        "name": "Studio 1",
+        "country": "US"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 80,
+        "price": 43.43
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.4
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Neon Quest 23",
+      "platform": "Game Boy",
+      "release_year": 1987,
+      "developer": {
+        "name": "Studio 10",
+        "country": "UK"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 80,
+        "price": 69.63
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.9
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Neon Quest 24",
+      "platform": "SNES",
+      "release_year": 1985,
+      "developer": {
+        "name": "Studio 24",
+        "country": "Japan"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 57,
+        "price": 16.1
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.5
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Neon Quest 25",
+      "platform": "Genesis",
+      "release_year": 1993,
+      "developer": {
+        "name": "Studio 16",
+        "country": "Japan"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 27,
+        "price": 52.8
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.5
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Neon Quest 26",
+      "platform": "Genesis",
+      "release_year": 1985,
+      "developer": {
+        "name": "Studio 9",
+        "country": "UK"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 69,
+        "price": 74.84
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.7
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Neon Quest 27",
+      "platform": "NES",
+      "release_year": 1994,
+      "developer": {
+        "name": "Studio 2",
+        "country": "US"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 53,
+        "price": 46.12
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.3
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Neon Quest 28",
+      "platform": "NES",
+      "release_year": 1994,
+      "developer": {
+        "name": "Studio 20",
+        "country": "US"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 14,
+        "price": 42.88
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.2
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Neon Quest 29",
+      "platform": "Arcade",
+      "release_year": 1991,
+      "developer": {
+        "name": "Studio 18",
+        "country": "Japan"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 95,
+        "price": 58.45
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.8
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Neon Quest 30",
+      "platform": "SNES",
+      "release_year": 1989,
+      "developer": {
+        "name": "Studio 3",
+        "country": "US"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 52,
+        "price": 26.52
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.3
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Neon Quest 31",
+      "platform": "Game Boy",
+      "release_year": 1987,
+      "developer": {
+        "name": "Studio 18",
+        "country": "UK"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 87,
+        "price": 11.76
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.6
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Neon Quest 32",
+      "platform": "Game Boy",
+      "release_year": 1987,
+      "developer": {
+        "name": "Studio 1",
+        "country": "US"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 59,
+        "price": 32.36
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.2
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Neon Quest 33",
+      "platform": "NES",
+      "release_year": 1992,
+      "developer": {
+        "name": "Studio 23",
+        "country": "Japan"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 11,
+        "price": 75.57
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.6
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Neon Quest 34",
+      "platform": "SNES",
+      "release_year": 1986,
+      "developer": {
+        "name": "Studio 2",
+        "country": "UK"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 22,
+        "price": 20.49
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.8
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Neon Quest 35",
+      "platform": "Game Boy",
+      "release_year": 1989,
+      "developer": {
+        "name": "Studio 3",
+        "country": "UK"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 62,
+        "price": 30.68
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.9
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Neon Quest 36",
+      "platform": "Game Boy",
+      "release_year": 1991,
+      "developer": {
+        "name": "Studio 9",
+        "country": "Japan"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 3,
+        "price": 11.2
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.2
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Neon Quest 37",
+      "platform": "Game Boy",
+      "release_year": 1983,
+      "developer": {
+        "name": "Studio 20",
+        "country": "US"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 92,
+        "price": 73.77
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.3
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "title": "Neon Quest 38",
+      "platform": "Arcade",
+      "release_year": 1986,
+      "developer": {
+        "name": "Studio 10",
+        "country": "US"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 29,
+        "price": 18.76
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.9
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "title": "Neon Quest 39",
+      "platform": "SNES",
+      "release_year": 1985,
+      "developer": {
+        "name": "Studio 5",
+        "country": "US"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 92,
+        "price": 33.99
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.5
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Neon Quest 40",
+      "platform": "SNES",
+      "release_year": 1985,
+      "developer": {
+        "name": "Studio 2",
+        "country": "US"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 97,
+        "price": 27.47
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.6
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "title": "Neon Quest 41",
+      "platform": "SNES",
+      "release_year": 1989,
+      "developer": {
+        "name": "Studio 20",
+        "country": "UK"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 60,
+        "price": 77.73
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.4
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Neon Quest 42",
+      "platform": "SNES",
+      "release_year": 1990,
+      "developer": {
+        "name": "Studio 25",
+        "country": "UK"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 59,
+        "price": 21.67
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.8
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Neon Quest 43",
+      "platform": "Game Boy",
+      "release_year": "1987",
+      "developer": {
+        "name": "Studio 4",
+        "country": "UK"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 99,
+        "price": 73.73
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.1
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Neon Quest 44",
+      "platform": "NES",
+      "release_year": 1983,
+      "developer": {
+        "name": "Studio 11",
+        "country": "UK"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 89,
+        "price": 13.2
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.1
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "title": "Neon Quest 45",
+      "platform": "Genesis",
+      "release_year": 1985,
+      "developer": {
+        "name": "Studio 18",
+        "country": "Japan"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 2,
+        "price": 42.0
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.7
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "title": "Neon Quest 46",
+      "platform": "NES",
+      "release_year": 1983,
+      "developer": {
+        "name": "Studio 19",
+        "country": "Japan"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 84,
+        "price": 12.87
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.8
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "title": "Neon Quest 47",
+      "platform": "SNES",
+      "release_year": 1988,
+      "developer": {
+        "name": "Studio 16",
+        "country": "UK"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 0,
+        "price": 40.37
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.9
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Neon Quest 48",
+      "platform": "Genesis",
+      "release_year": 1995,
+      "developer": {
+        "name": "Studio 17",
+        "country": "US"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 48,
+        "price": 35.37
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.4
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "title": "Neon Quest 49",
+      "platform": "Arcade",
+      "release_year": 1992,
+      "developer": {
+        "name": "Studio 9",
+        "country": "US"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 87,
+        "price": 30.45
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 10.0
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "title": "Neon Quest 50",
+      "platform": "NES",
+      "release_year": 1988,
+      "developer": {
+        "name": "Studio 9",
+        "country": "UK"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 82,
+        "price": 42.81
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.1
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "title": "Neon Quest 51",
+      "platform": "Game Boy",
+      "release_year": 1991,
+      "developer": {
+        "name": "Studio 18",
+        "country": "Japan"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 77,
+        "price": 51.33
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.1
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "title": "Neon Quest 52",
+      "platform": "SNES",
+      "release_year": 1983,
+      "developer": {
+        "name": "Studio 8",
+        "country": "UK"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 34,
+        "price": 51.91
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.1
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "title": "Neon Quest 53",
+      "platform": "Arcade",
+      "release_year": 1983,
+      "developer": {
+        "name": "Studio 15",
+        "country": "Japan"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 50,
+        "price": 70.44
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.1
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "title": "Neon Quest 54",
+      "platform": "NES",
+      "release_year": 1988,
+      "developer": {
+        "name": "Studio 11",
+        "country": "US"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 97,
+        "price": 49.64
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.8
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "title": "Neon Quest 55",
+      "platform": "Genesis",
+      "release_year": 1993,
+      "developer": {
+        "name": "Studio 14",
+        "country": "Japan"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 26,
+        "price": 62.03
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.4
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "title": "Neon Quest 56",
+      "platform": "NES",
+      "release_year": 1993,
+      "developer": {
+        "name": "Studio 9",
+        "country": "US"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 39,
+        "price": 37.94
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.9
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "title": "Neon Quest 57",
+      "platform": "Arcade",
+      "release_year": 1985,
+      "developer": {
+        "name": "Studio 24",
+        "country": "Japan"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 61,
+        "price": 74.09
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.6
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "title": "Neon Quest 58",
+      "platform": "Arcade",
+      "release_year": 1992,
+      "developer": {
+        "name": "Studio 8",
+        "country": "UK"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 44,
+        "price": 30.74
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.3
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "title": "Neon Quest 59",
+      "platform": "Game Boy",
+      "release_year": 1987,
+      "developer": {
+        "name": "Studio 15",
+        "country": "UK"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 42,
+        "price": 19.59
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.4
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "title": "Neon Quest 60",
+      "platform": "SNES",
+      "release_year": 1993,
+      "developer": {
+        "name": "Studio 19",
+        "country": "US"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 36,
+        "price": 16.58
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.0
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "title": "Neon Quest 61",
+      "platform": "Game Boy",
+      "release_year": 1987,
+      "developer": {
+        "name": "Studio 6",
+        "country": "UK"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 33,
+        "price": 64.49
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.1
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "title": "Neon Quest 62",
+      "platform": "Genesis",
+      "release_year": 1983,
+      "developer": {
+        "name": "Studio 15",
+        "country": "UK"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 15,
+        "price": 27.5
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.5
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "title": "Neon Quest 63",
+      "platform": "Game Boy",
+      "release_year": 1991,
+      "developer": {
+        "name": "Studio 15",
+        "country": "Japan"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 18,
+        "price": 78.78
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.8
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "title": "Neon Quest 64",
+      "platform": "NES",
+      "release_year": 1988,
+      "developer": {
+        "name": "Studio 9",
+        "country": "US"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 31,
+        "price": 68.46
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.6
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "title": "Neon Quest 65",
+      "platform": "Genesis",
+      "release_year": 1992,
+      "developer": {
+        "name": "Studio 8",
+        "country": "Japan"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 5,
+        "price": 33.77
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.1
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "title": "Neon Quest 66",
+      "platform": "Genesis",
+      "release_year": 1984,
+      "developer": {
+        "name": "Studio 17",
+        "country": "US"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 62,
+        "price": 29.75
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.1
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "title": "Neon Quest 67",
+      "platform": "NES",
+      "release_year": 1995,
+      "developer": {
+        "name": "Studio 1",
+        "country": "US"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 33,
+        "price": 46.87
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.7
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "title": "Neon Quest 68",
+      "platform": "Arcade",
+      "release_year": 1994,
+      "developer": {
+        "name": "Studio 19",
+        "country": "UK"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 43,
+        "price": 71.4
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.9
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "title": "Neon Quest 69",
+      "platform": "Game Boy",
+      "release_year": 1990,
+      "developer": {
+        "name": "Studio 1",
+        "country": "US"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 48,
+        "price": 46.21
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.1
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "title": "Neon Quest 70",
+      "platform": "NES",
+      "release_year": 1990,
+      "developer": {
+        "name": "Studio 18",
+        "country": "Japan"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 19,
+        "price": 48.54
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.7
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "title": "Neon Quest 71",
+      "platform": "Game Boy",
+      "release_year": 1983,
+      "developer": {
+        "name": "Studio 18",
+        "country": "UK"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 26,
+        "price": 68.21
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.9
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "title": "Neon Quest 72",
+      "platform": "Arcade",
+      "release_year": 1984,
+      "developer": {
+        "name": "Studio 9",
+        "country": "US"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 35,
+        "price": 25.65
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.8
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "title": "Neon Quest 73",
+      "platform": "Game Boy",
+      "release_year": 1987,
+      "developer": {
+        "name": "Studio 8",
+        "country": "US"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 77,
+        "price": 24.49
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.7
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "title": "Neon Quest 74",
+      "platform": "Arcade",
+      "release_year": 1985,
+      "developer": {
+        "name": "Studio 23",
+        "country": "UK"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 89,
+        "price": 60.63
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.8
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "title": "Neon Quest 75",
+      "platform": "Genesis",
+      "release_year": 1985,
+      "developer": {
+        "name": "Studio 13",
+        "country": "UK"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 22,
+        "price": 55.76
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.5
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "title": "Neon Quest 76",
+      "platform": "NES",
+      "release_year": 1988,
+      "developer": {
+        "name": "Studio 16",
+        "country": "Japan"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 72,
+        "price": 55.84
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.2
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "title": "Neon Quest 77",
+      "platform": "Genesis",
+      "release_year": 1992,
+      "developer": {
+        "name": "Studio 23",
+        "country": "US"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 36,
+        "price": 76.39
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.6
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "title": "Neon Quest 78",
+      "platform": "NES",
+      "release_year": 1986,
+      "developer": {
+        "name": "Studio 25",
+        "country": "Japan"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 12,
+        "price": 69.77
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.8
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "title": "Neon Quest 79",
+      "platform": "Genesis",
+      "release_year": 1983,
+      "developer": {
+        "name": "Studio 1",
+        "country": "Japan"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 24,
+        "price": 76.12
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.3
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "title": "Neon Quest 80",
+      "platform": "Genesis",
+      "release_year": 1991,
+      "developer": {
+        "name": "Studio 10",
+        "country": "Japan"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 21,
+        "price": 42.32
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.8
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "title": "Neon Quest 81",
+      "platform": "Genesis",
+      "release_year": 1995,
+      "developer": {
+        "name": "Studio 9",
+        "country": "UK"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 44,
+        "price": 41.51
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.7
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "title": "Neon Quest 82",
+      "platform": "Arcade",
+      "release_year": 1987,
+      "developer": {
+        "name": "Studio 10",
+        "country": "US"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 74,
+        "price": 54.73
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.7
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "title": "Neon Quest 83",
+      "platform": "Arcade",
+      "release_year": 1987,
+      "developer": {
+        "name": "Studio 24",
+        "country": "Japan"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 1,
+        "price": 73.04
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.3
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "title": "Neon Quest 84",
+      "platform": "Game Boy",
+      "release_year": 1993,
+      "developer": {
+        "name": "Studio 20",
+        "country": "UK"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 1,
+        "price": 56.88
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.1
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "title": "Neon Quest 85",
+      "platform": "NES",
+      "release_year": 1986,
+      "developer": {
+        "name": "Studio 8",
+        "country": "Japan"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 32,
+        "price": 65.55
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.6
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "title": "Neon Quest 86",
+      "platform": "Game Boy",
+      "release_year": 1993,
+      "developer": {
+        "name": "Studio 16",
+        "country": "UK"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 65,
+        "price": 79.99
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.3
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "title": "Neon Quest 87",
+      "platform": "Game Boy",
+      "release_year": 1994,
+      "developer": {
+        "name": "Studio 23",
+        "country": "Japan"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 35,
+        "price": 69.94
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.2
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "title": "Neon Quest 88",
+      "platform": "Game Boy",
+      "release_year": 1990,
+      "developer": {
+        "name": "Studio 14",
+        "country": "UK"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 25,
+        "price": 39.32
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.6
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "title": "Neon Quest 89",
+      "platform": "Genesis",
+      "release_year": 1989,
+      "developer": {
+        "name": "Studio 20",
+        "country": "US"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 16,
+        "price": 18.05
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.5
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "title": "Neon Quest 90",
+      "platform": "Genesis",
+      "release_year": 1984,
+      "developer": {
+        "name": "Studio 25",
+        "country": "UK"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 74,
+        "price": 64.95
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.3
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "title": "Neon Quest 91",
+      "platform": "NES",
+      "release_year": 1986,
+      "developer": {
+        "name": "Studio 16",
+        "country": "UK"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 59,
+        "price": 32.92
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.8
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "title": "Neon Quest 92",
+      "platform": "Genesis",
+      "release_year": 1992,
+      "developer": {
+        "name": "Studio 24",
+        "country": "US"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 80,
+        "price": 79.47
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.3
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "title": "Neon Quest 93",
+      "platform": "NES",
+      "release_year": 1991,
+      "developer": {
+        "name": "Studio 3",
+        "country": "US"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 16,
+        "price": 50.92
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.7
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "title": "Neon Quest 94",
+      "platform": "Genesis",
+      "release_year": 1986,
+      "developer": {
+        "name": "Studio 16",
+        "country": "UK"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 45,
+        "price": 15.72
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.5
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "title": "Neon Quest 95",
+      "platform": "SNES",
+      "release_year": 1988,
+      "developer": {
+        "name": "Studio 9",
+        "country": "UK"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 16,
+        "price": 74.75
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.6
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "title": "Neon Quest 96",
+      "platform": "Game Boy",
+      "release_year": 1985,
+      "developer": {
+        "name": "Studio 13",
+        "country": "UK"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 45,
+        "price": 26.89
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.4
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "title": "Neon Quest 97",
+      "platform": "Genesis",
+      "release_year": 1988,
+      "developer": {
+        "name": "Studio 18",
+        "country": "US"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 39,
+        "price": 74.16
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.1
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "title": "Neon Quest 98",
+      "platform": "SNES",
+      "release_year": 1984,
+      "developer": {
+        "name": "Studio 9",
+        "country": "UK"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 73,
+        "price": 68.42
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.7
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "title": "Neon Quest 99",
+      "platform": "SNES",
+      "release_year": 1994,
+      "developer": {
+        "name": "Studio 11",
+        "country": "US"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 90,
+        "price": 40.99
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 10.0
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "title": "Neon Quest 100",
+      "platform": "Arcade",
+      "release_year": 1994,
+      "developer": {
+        "name": "Studio 5",
+        "country": "US"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 85,
+        "price": 54.68
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.2
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "title": "Neon Quest 101",
+      "platform": "Arcade",
+      "release_year": 1986,
+      "developer": {
+        "name": "Studio 22",
+        "country": "US"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 30,
+        "price": 11.46
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.1
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "title": "Neon Quest 102",
+      "platform": "SNES",
+      "release_year": 1987,
+      "developer": {
+        "name": "Studio 21",
+        "country": "Japan"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 71,
+        "price": 18.22
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.9
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "title": "Neon Quest 103",
+      "platform": "SNES",
+      "release_year": 1993,
+      "developer": {
+        "name": "Studio 21",
+        "country": "Japan"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 22,
+        "price": 19.28
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.6
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "title": "Neon Quest 104",
+      "platform": "Game Boy",
+      "release_year": 1993,
+      "developer": {
+        "name": "Studio 3",
+        "country": "UK"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 47,
+        "price": 29.58
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.8
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "title": "Neon Quest 105",
+      "platform": "Game Boy",
+      "release_year": 1995,
+      "developer": {
+        "name": "Studio 2",
+        "country": "UK"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 43,
+        "price": 30.7
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.2
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "title": "Neon Quest 106",
+      "platform": "Game Boy",
+      "release_year": 1990,
+      "developer": {
+        "name": "Studio 21",
+        "country": "Japan"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 8,
+        "price": 45.65
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.0
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "title": "Neon Quest 107",
+      "platform": "Game Boy",
+      "release_year": 1989,
+      "developer": {
+        "name": "Studio 4",
+        "country": "UK"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 2,
+        "price": 79.39
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.4
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "title": "Neon Quest 108",
+      "platform": "SNES",
+      "release_year": 1994,
+      "developer": {
+        "name": "Studio 14",
+        "country": "UK"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 9,
+        "price": 26.78
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.0
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "title": "Neon Quest 109",
+      "platform": "Arcade",
+      "release_year": 1984,
+      "developer": {
+        "country": "UK"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 45,
+        "price": 16.89
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.6
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "title": "Neon Quest 110",
+      "platform": "Game Boy",
+      "release_year": 1988,
+      "developer": {
+        "name": "Studio 23",
+        "country": "Japan"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 60,
+        "price": 64.26
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.3
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "title": "Neon Quest 111",
+      "platform": "NES",
+      "release_year": 1993,
+      "developer": {
+        "name": "Studio 16",
+        "country": "US"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 84,
+        "price": 40.78
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.1
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "title": "Neon Quest 112",
+      "platform": "SNES",
+      "release_year": 1983,
+      "developer": {
+        "name": "Studio 17",
+        "country": "Japan"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 21,
+        "price": 48.74
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.0
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "title": "Neon Quest 113",
+      "platform": "NES",
+      "release_year": 1985,
+      "developer": {
+        "name": "Studio 19",
+        "country": "UK"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 61,
+        "price": 70.87
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.7
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "title": "Neon Quest 114",
+      "platform": "SNES",
+      "release_year": 1986,
+      "developer": {
+        "name": "Studio 3",
+        "country": "Japan"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 47,
+        "price": 45.46
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.5
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "title": "Neon Quest 115",
+      "platform": "SNES",
+      "release_year": 1988,
+      "developer": {
+        "name": "Studio 7",
+        "country": "UK"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 64,
+        "price": 54.66
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.0
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "title": "Neon Quest 116",
+      "platform": "Genesis",
+      "release_year": 1990,
+      "developer": {
+        "name": "Studio 20",
+        "country": "Japan"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 20,
+        "price": 55.53
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.1
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "title": "Neon Quest 117",
+      "platform": "SNES",
+      "release_year": 1990,
+      "developer": {
+        "name": "Studio 7",
+        "country": "Japan"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 57,
+        "price": 48.92
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.4
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "title": "Neon Quest 118",
+      "platform": "Game Boy",
+      "release_year": 1984,
+      "developer": {
+        "name": "Studio 22",
+        "country": "US"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 22,
+        "price": 71.45
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.1
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "title": "Neon Quest 119",
+      "platform": "Arcade",
+      "release_year": 1984,
+      "developer": {
+        "name": "Studio 8",
+        "country": "UK"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 74,
+        "price": 63.38
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.3
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "title": "Neon Quest 120",
+      "platform": "Genesis",
+      "release_year": 1991,
+      "developer": {
+        "name": "Studio 3",
+        "country": "US"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 74,
+        "price": 70.12
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.0
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "title": "Neon Quest 121",
+      "platform": "Game Boy",
+      "release_year": 1988,
+      "developer": {
+        "name": "Studio 9",
+        "country": "UK"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 39,
+        "price": 45.32
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.0
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "title": "Neon Quest 122",
+      "platform": "Genesis",
+      "release_year": 1989,
+      "developer": {
+        "name": "Studio 19",
+        "country": "UK"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 19,
+        "price": 75.23
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.0
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "title": "Neon Quest 123",
+      "platform": "Genesis",
+      "release_year": 1984,
+      "developer": {
+        "name": "Studio 5",
+        "country": "US"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 33,
+        "price": 18.32
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.3
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "title": "Neon Quest 124",
+      "platform": "Genesis",
+      "release_year": 1984,
+      "developer": {
+        "name": "Studio 18",
+        "country": "Japan"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 24,
+        "price": 48.32
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.3
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "title": "Neon Quest 125",
+      "platform": "NES",
+      "release_year": 1990,
+      "developer": {
+        "name": "Studio 10",
+        "country": "US"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 44,
+        "price": 43.55
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.5
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "title": "Neon Quest 126",
+      "platform": "Arcade",
+      "release_year": 1986,
+      "developer": {
+        "name": "Studio 12",
+        "country": "UK"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 20,
+        "price": 79.09
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.5
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "title": "Neon Quest 127",
+      "platform": "SNES",
+      "release_year": 1994,
+      "developer": {
+        "name": "Studio 8",
+        "country": "US"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 29,
+        "price": 33.33
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.1
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "title": "Neon Quest 128",
+      "platform": "Genesis",
+      "release_year": 1990,
+      "developer": {
+        "name": "Studio 18",
+        "country": "UK"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 86,
+        "price": 27.44
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.7
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "title": "Neon Quest 129",
+      "platform": "Genesis",
+      "release_year": 1991,
+      "developer": {
+        "name": "Studio 20",
+        "country": "US"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 74,
+        "price": 46.31
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.6
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "title": "Neon Quest 130",
+      "platform": "SNES",
+      "release_year": 1985,
+      "developer": {
+        "name": "Studio 2",
+        "country": "US"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 38,
+        "price": 57.03
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.7
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "title": "Neon Quest 131",
+      "platform": "Genesis",
+      "release_year": 1992,
+      "developer": {
+        "name": "Studio 18",
+        "country": "Japan"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 38,
+        "price": 60.82
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.3
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "title": "Neon Quest 132",
+      "platform": "Game Boy",
+      "release_year": 1995,
+      "developer": {
+        "name": "Studio 1",
+        "country": "UK"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 45,
+        "price": 70.12
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.7
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "title": "Neon Quest 133",
+      "platform": "SNES",
+      "release_year": 1991,
+      "developer": {
+        "name": "Studio 19",
+        "country": "UK"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 45,
+        "price": 42.42
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.9
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "title": "Neon Quest 134",
+      "platform": "Genesis",
+      "release_year": 1993,
+      "developer": {
+        "name": "Studio 16",
+        "country": "US"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 99,
+        "price": 35.62
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.7
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "title": "Neon Quest 135",
+      "platform": "Genesis",
+      "release_year": 1983,
+      "developer": {
+        "name": "Studio 7",
+        "country": "Japan"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 34,
+        "price": 60.7
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.2
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "title": "Neon Quest 136",
+      "platform": "SNES",
+      "release_year": 1983,
+      "developer": {
+        "name": "Studio 16",
+        "country": "UK"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 70,
+        "price": 37.47
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.0
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "title": "Neon Quest 137",
+      "platform": "NES",
+      "release_year": 1990,
+      "developer": {
+        "name": "Studio 6",
+        "country": "UK"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 8,
+        "price": 49.3
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.5
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "title": "Neon Quest 138",
+      "platform": "NES",
+      "release_year": 1989,
+      "developer": {
+        "name": "Studio 12",
+        "country": "Japan"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 39,
+        "price": 68.86
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.3
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "title": "Neon Quest 139",
+      "platform": "Genesis",
+      "release_year": 1988,
+      "developer": {
+        "name": "Studio 14",
+        "country": "US"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 88,
+        "price": 23.47
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.3
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "title": "Neon Quest 140",
+      "platform": "Game Boy",
+      "release_year": 1984,
+      "developer": {
+        "name": "Studio 25",
+        "country": "UK"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 70,
+        "price": 77.63
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.9
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "title": "Neon Quest 141",
+      "platform": "NES",
+      "release_year": 1987,
+      "developer": {
+        "name": "Studio 5",
+        "country": "US"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 67,
+        "price": 75.88
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.0
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "title": "Neon Quest 142",
+      "platform": "Arcade",
+      "release_year": 1983,
+      "developer": {
+        "name": "Studio 9",
+        "country": "Japan"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 20,
+        "price": 12.44
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.7
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "title": "Neon Quest 143",
+      "platform": "SNES",
+      "release_year": 1990,
+      "developer": {
+        "name": "Studio 9",
+        "country": "Japan"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 86,
+        "price": 39.91
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.2
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "title": "Neon Quest 144",
+      "platform": "NES",
+      "release_year": 1983,
+      "developer": {
+        "name": "Studio 24",
+        "country": "UK"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 80,
+        "price": 43.39
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.8
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "title": "Neon Quest 145",
+      "platform": "SNES",
+      "release_year": 1985,
+      "developer": {
+        "name": "Studio 5",
+        "country": "US"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 96,
+        "price": 30.52
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.6
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "title": "Neon Quest 146",
+      "platform": "NES",
+      "release_year": 1994,
+      "developer": {
+        "name": "Studio 2",
+        "country": "Japan"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 6,
+        "price": 41.9
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.6
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "title": "Neon Quest 147",
+      "platform": "Genesis",
+      "release_year": 1990,
+      "developer": {
+        "name": "Studio 15",
+        "country": "Japan"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 87,
+        "price": 29.4
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.3
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "title": "Neon Quest 148",
+      "platform": "NES",
+      "release_year": 1988,
+      "developer": {
+        "name": "Studio 10",
+        "country": "US"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 34,
+        "price": 67.14
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.3
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "title": "Neon Quest 149",
+      "platform": "NES",
+      "release_year": 1991,
+      "developer": {
+        "name": "Studio 7",
+        "country": "Japan"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 91,
+        "price": 11.68
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.1
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "title": "Neon Quest 150",
+      "platform": "Genesis",
+      "release_year": 1992,
+      "developer": {
+        "name": "Studio 12",
+        "country": "UK"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 82,
+        "price": 75.16
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.3
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "title": "Neon Quest 151",
+      "platform": "Genesis",
+      "release_year": 1987,
+      "developer": {
+        "name": "Studio 23",
+        "country": "UK"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": "available",
+        "price": 36.33
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.4
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "title": "Neon Quest 152",
+      "platform": "Genesis",
+      "release_year": 1986,
+      "developer": {
+        "name": "Studio 5",
+        "country": "UK"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 75,
+        "price": 50.86
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.7
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "title": "Neon Quest 153",
+      "platform": "Game Boy",
+      "release_year": 1995,
+      "developer": {
+        "name": "Studio 1",
+        "country": "US"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 53,
+        "price": 23.49
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.1
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "title": "Neon Quest 154",
+      "platform": "Game Boy",
+      "release_year": 1987,
+      "developer": {
+        "name": "Studio 20",
+        "country": "UK"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 9,
+        "price": 67.66
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.0
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "title": "Neon Quest 155",
+      "platform": "SNES",
+      "release_year": 1986,
+      "developer": {
+        "name": "Studio 21",
+        "country": "US"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 25,
+        "price": 19.79
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.7
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "title": "Neon Quest 156",
+      "platform": "SNES",
+      "release_year": 1983,
+      "developer": {
+        "name": "Studio 1",
+        "country": "US"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 45,
+        "price": 39.5
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.8
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "title": "Neon Quest 157",
+      "platform": "Game Boy",
+      "release_year": 1994,
+      "developer": {
+        "name": "Studio 21",
+        "country": "Japan"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 90,
+        "price": 27.38
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.4
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "title": "Neon Quest 158",
+      "platform": "Game Boy",
+      "release_year": 1989,
+      "developer": {
+        "name": "Studio 8",
+        "country": "UK"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 67,
+        "price": 46.38
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.8
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "title": "Neon Quest 159",
+      "platform": "Game Boy",
+      "release_year": 1989,
+      "developer": {
+        "name": "Studio 15",
+        "country": "UK"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 23,
+        "price": 32.11
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.7
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "title": "Neon Quest 160",
+      "platform": "NES",
+      "release_year": 1993,
+      "developer": {
+        "name": "Studio 8",
+        "country": "US"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 83,
+        "price": 43.61
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.6
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "title": "Neon Quest 161",
+      "platform": "NES",
+      "release_year": 1994,
+      "developer": {
+        "name": "Studio 19",
+        "country": "US"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 89,
+        "price": 34.93
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.4
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "title": "Neon Quest 162",
+      "platform": "Game Boy",
+      "release_year": 1988,
+      "developer": {
+        "name": "Studio 19",
+        "country": "US"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 60,
+        "price": 69.39
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.6
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "title": "Neon Quest 163",
+      "platform": "Arcade",
+      "release_year": 1995,
+      "developer": {
+        "name": "Studio 3",
+        "country": "UK"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 85,
+        "price": 54.14
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.7
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "title": "Neon Quest 164",
+      "platform": "SNES",
+      "release_year": 1985,
+      "developer": {
+        "name": "Studio 9",
+        "country": "UK"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 19,
+        "price": 61.3
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.3
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "title": "Neon Quest 165",
+      "platform": "SNES",
+      "release_year": 1991,
+      "developer": {
+        "name": "Studio 7",
+        "country": "UK"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 62,
+        "price": 34.27
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.4
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "title": "Neon Quest 166",
+      "platform": "SNES",
+      "release_year": 1984,
+      "developer": {
+        "name": "Studio 7",
+        "country": "US"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 66,
+        "price": 69.26
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.1
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "title": "Neon Quest 167",
+      "platform": "Arcade",
+      "release_year": 1990,
+      "developer": {
+        "name": "Studio 12",
+        "country": "US"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 49,
+        "price": 28.13
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.9
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "title": "Neon Quest 168",
+      "platform": "Game Boy",
+      "release_year": 1992,
+      "developer": {
+        "name": "Studio 24",
+        "country": "US"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 14,
+        "price": 68.39
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.6
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "title": "Neon Quest 169",
+      "platform": "SNES",
+      "release_year": 1984,
+      "developer": {
+        "name": "Studio 17",
+        "country": "UK"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 83,
+        "price": 17.83
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.9
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "title": "Neon Quest 170",
+      "platform": "SNES",
+      "release_year": 1987,
+      "developer": {
+        "name": "Studio 22",
+        "country": "US"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 37,
+        "price": 67.27
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.7
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "title": "Neon Quest 171",
+      "platform": "SNES",
+      "release_year": 1989,
+      "developer": {
+        "name": "Studio 22",
+        "country": "UK"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 58,
+        "price": 70.57
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.0
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "title": "Neon Quest 172",
+      "platform": "NES",
+      "release_year": 1987,
+      "developer": {
+        "name": "Studio 3",
+        "country": "UK"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 20,
+        "price": 53.24
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.7
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "title": "Neon Quest 173",
+      "platform": "SNES",
+      "release_year": 1992,
+      "developer": {
+        "name": "Studio 13",
+        "country": "Japan"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 30,
+        "price": 39.07
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.7
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "title": "Neon Quest 174",
+      "platform": "Game Boy",
+      "release_year": 1993,
+      "developer": {
+        "name": "Studio 17",
+        "country": "UK"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 56,
+        "price": 10.88
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.9
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "title": "Neon Quest 175",
+      "platform": "Arcade",
+      "release_year": 1988,
+      "developer": {
+        "name": "Studio 1",
+        "country": "UK"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 74,
+        "price": 71.18
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.9
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "title": "Neon Quest 176",
+      "platform": "Game Boy",
+      "release_year": 1984,
+      "developer": {
+        "name": "Studio 12",
+        "country": "Japan"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 0,
+        "price": 23.28
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.4
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "title": "Neon Quest 177",
+      "platform": "Genesis",
+      "release_year": 1995,
+      "developer": {
+        "name": "Studio 25",
+        "country": "UK"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 39,
+        "price": 57.48
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.4
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "title": "Neon Quest 178",
+      "platform": "Arcade",
+      "release_year": 1990,
+      "developer": {
+        "name": "Studio 6",
+        "country": "US"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 30,
+        "price": 16.09
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.0
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "title": "Neon Quest 179",
+      "platform": "Arcade",
+      "release_year": 1991,
+      "developer": {
+        "name": "Studio 4",
+        "country": "UK"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 100,
+        "price": 51.4
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.5
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "title": "Neon Quest 180",
+      "platform": "Arcade",
+      "release_year": 1991,
+      "developer": {
+        "name": "Studio 25",
+        "country": "Japan"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 82,
+        "price": 11.95
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.6
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "title": "Neon Quest 181",
+      "platform": "SNES",
+      "release_year": 1987,
+      "developer": {
+        "name": "Studio 11",
+        "country": "US"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 88,
+        "price": 37.51
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.5
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "title": "Neon Quest 182",
+      "platform": "Game Boy",
+      "release_year": 1991,
+      "developer": {
+        "name": "Studio 21",
+        "country": "UK"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 90,
+        "price": 58.79
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.9
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "title": "Neon Quest 183",
+      "platform": "Game Boy",
+      "release_year": 1988,
+      "developer": {
+        "name": "Studio 13",
+        "country": "Japan"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 48,
+        "price": 79.6
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.0
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "title": "Neon Quest 184",
+      "platform": "NES",
+      "release_year": 1985,
+      "developer": {
+        "name": "Studio 9",
+        "country": "US"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 85,
+        "price": 18.52
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.5
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "title": "Neon Quest 185",
+      "platform": "Game Boy",
+      "release_year": 1985,
+      "developer": {
+        "name": "Studio 11",
+        "country": "US"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 26,
+        "price": 19.69
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.9
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "title": "Neon Quest 186",
+      "platform": "SNES",
+      "release_year": 1987,
+      "developer": {
+        "name": "Studio 10",
+        "country": "UK"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 0,
+        "price": 30.55
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.1
+        }
+      ]
+    },
+    {
+      "id": 187,
+      "title": "Neon Quest 187",
+      "platform": "NES",
+      "release_year": 1989,
+      "developer": {
+        "name": "Studio 3",
+        "country": "UK"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 83,
+        "price": 31.18
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.0
+        }
+      ]
+    },
+    {
+      "id": 188,
+      "title": "Neon Quest 188",
+      "platform": "Game Boy",
+      "release_year": 1992,
+      "developer": {
+        "name": "Studio 17",
+        "country": "Japan"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 79,
+        "price": 11.84
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.1
+        }
+      ]
+    },
+    {
+      "id": 189,
+      "title": "Neon Quest 189",
+      "platform": "Arcade",
+      "release_year": 1987,
+      "developer": {
+        "name": "Studio 20",
+        "country": "UK"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 29,
+        "price": 20.97
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.9
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "title": "Neon Quest 190",
+      "platform": "Arcade",
+      "release_year": 1983,
+      "developer": {
+        "name": "Studio 9",
+        "country": "Japan"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 41,
+        "price": 41.79
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.3
+        }
+      ]
+    },
+    {
+      "id": 191,
+      "title": "Neon Quest 191",
+      "platform": "Genesis",
+      "release_year": 1991,
+      "developer": {
+        "name": "Studio 16",
+        "country": "Japan"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 93,
+        "price": 18.71
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.6
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "title": "Neon Quest 192",
+      "platform": "SNES",
+      "release_year": 1987,
+      "developer": {
+        "name": "Studio 23",
+        "country": "Japan"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 93,
+        "price": 26.53
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.8
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "title": "Neon Quest 193",
+      "platform": "Genesis",
+      "release_year": 1985,
+      "developer": {
+        "name": "Studio 18",
+        "country": "US"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 40,
+        "price": 78.7
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.9
+        }
+      ]
+    },
+    {
+      "id": 194,
+      "title": "Neon Quest 194",
+      "platform": "Arcade",
+      "release_year": 1984,
+      "developer": {
+        "name": "Studio 12",
+        "country": "Japan"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 23,
+        "price": 54.67
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.1
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "title": "Neon Quest 195",
+      "platform": "Genesis",
+      "release_year": 1990,
+      "developer": {
+        "name": "Studio 5",
+        "country": "US"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 88,
+        "price": 16.0
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.4
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "title": "Neon Quest 196",
+      "platform": "Arcade",
+      "release_year": 1983,
+      "developer": {
+        "name": "Studio 11",
+        "country": "UK"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 2,
+        "price": 18.46
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.4
+        }
+      ]
+    },
+    {
+      "id": 197,
+      "title": "Neon Quest 197",
+      "platform": "Genesis",
+      "release_year": 1993,
+      "developer": {
+        "name": "Studio 1",
+        "country": "US"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 36,
+        "price": 70.5
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.9
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "title": "Neon Quest 198",
+      "platform": "SNES",
+      "release_year": 1989,
+      "developer": {
+        "name": "Studio 8",
+        "country": "UK"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 24,
+        "price": 45.59
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.7
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "title": "Neon Quest 199",
+      "platform": "NES",
+      "release_year": 1992,
+      "developer": {
+        "name": "Studio 8",
+        "country": "US"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 35,
+        "price": 35.72
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.7
+        }
+      ]
+    },
+    {
+      "id": 200,
+      "title": "Neon Quest 200",
+      "platform": "Genesis",
+      "release_year": 1983,
+      "developer": {
+        "name": "Studio 1",
+        "country": "UK"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 70,
+        "price": 38.06
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.8
+        }
+      ]
+    },
+    {
+      "id": 201,
+      "title": "Neon Quest 201",
+      "platform": "Game Boy",
+      "release_year": 1993,
+      "developer": {
+        "name": "Studio 11",
+        "country": "UK"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 24,
+        "price": 73.2
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.8
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "title": "Neon Quest 202",
+      "platform": "Genesis",
+      "release_year": 1983,
+      "developer": {
+        "name": "Studio 14",
+        "country": "UK"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 95,
+        "price": 61.69
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": "ten"
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "title": "Neon Quest 203",
+      "platform": "NES",
+      "release_year": 1991,
+      "developer": {
+        "name": "Studio 24",
+        "country": "Japan"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 81,
+        "price": 78.91
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.1
+        }
+      ]
+    },
+    {
+      "id": 204,
+      "title": "Neon Quest 204",
+      "platform": "SNES",
+      "release_year": 1994,
+      "developer": {
+        "name": "Studio 1",
+        "country": "Japan"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 50,
+        "price": 59.95
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.2
+        }
+      ]
+    },
+    {
+      "id": 205,
+      "title": "Neon Quest 205",
+      "platform": "SNES",
+      "release_year": 1989,
+      "developer": {
+        "name": "Studio 9",
+        "country": "US"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 65,
+        "price": 57.23
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.3
+        }
+      ]
+    },
+    {
+      "id": 206,
+      "title": "Neon Quest 206",
+      "platform": "Game Boy",
+      "release_year": 1994,
+      "developer": {
+        "name": "Studio 21",
+        "country": "UK"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 46,
+        "price": 62.22
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.6
+        }
+      ]
+    },
+    {
+      "id": 207,
+      "title": "Neon Quest 207",
+      "platform": "NES",
+      "release_year": 1984,
+      "developer": {
+        "name": "Studio 10",
+        "country": "UK"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 62,
+        "price": 50.14
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.3
+        }
+      ]
+    },
+    {
+      "id": 208,
+      "title": "Neon Quest 208",
+      "platform": "Arcade",
+      "release_year": 1994,
+      "developer": {
+        "name": "Studio 23",
+        "country": "US"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 22,
+        "price": 52.66
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.4
+        }
+      ]
+    },
+    {
+      "id": 209,
+      "title": "Neon Quest 209",
+      "platform": "SNES",
+      "release_year": 1993,
+      "developer": {
+        "name": "Studio 20",
+        "country": "UK"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 8,
+        "price": 78.82
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.9
+        }
+      ]
+    },
+    {
+      "id": 210,
+      "title": "Neon Quest 210",
+      "platform": "Genesis",
+      "release_year": 1995,
+      "developer": {
+        "name": "Studio 15",
+        "country": "Japan"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 17,
+        "price": 35.61
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.2
+        }
+      ]
+    },
+    {
+      "id": 211,
+      "title": "Neon Quest 211",
+      "platform": "Arcade",
+      "release_year": 1988,
+      "developer": {
+        "name": "Studio 14",
+        "country": "US"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 15,
+        "price": 72.9
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.4
+        }
+      ]
+    },
+    {
+      "id": 212,
+      "title": "Neon Quest 212",
+      "platform": "Game Boy",
+      "release_year": 1987,
+      "developer": {
+        "name": "Studio 16",
+        "country": "UK"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 2,
+        "price": 30.27
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.8
+        }
+      ]
+    },
+    {
+      "id": 213,
+      "title": "Neon Quest 213",
+      "platform": "Arcade",
+      "release_year": 1989,
+      "developer": {
+        "name": "Studio 17",
+        "country": "US"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 30,
+        "price": 66.56
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.2
+        }
+      ]
+    },
+    {
+      "id": 214,
+      "title": "Neon Quest 214",
+      "platform": "NES",
+      "release_year": 1993,
+      "developer": {
+        "name": "Studio 15",
+        "country": "US"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 76,
+        "price": 56.29
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.5
+        }
+      ]
+    },
+    {
+      "id": 215,
+      "title": "Neon Quest 215",
+      "platform": "SNES",
+      "release_year": 1985,
+      "developer": {
+        "name": "Studio 22",
+        "country": "Japan"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 58,
+        "price": 47.4
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.1
+        }
+      ]
+    },
+    {
+      "id": 216,
+      "title": "Neon Quest 216",
+      "platform": "NES",
+      "release_year": 1993,
+      "developer": {
+        "name": "Studio 24",
+        "country": "UK"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 90,
+        "price": 24.83
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.6
+        }
+      ]
+    },
+    {
+      "id": 217,
+      "title": "Neon Quest 217",
+      "platform": "Arcade",
+      "release_year": 1991,
+      "developer": {
+        "name": "Studio 5",
+        "country": "US"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 41,
+        "price": 54.45
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.4
+        }
+      ]
+    },
+    {
+      "id": 218,
+      "title": "Neon Quest 218",
+      "platform": "Game Boy",
+      "release_year": 1991,
+      "developer": {
+        "name": "Studio 18",
+        "country": "UK"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 44,
+        "price": 77.44
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.2
+        }
+      ]
+    },
+    {
+      "id": 219,
+      "title": "Neon Quest 219",
+      "platform": "Game Boy",
+      "release_year": 1992,
+      "developer": {
+        "name": "Studio 2",
+        "country": "Japan"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 54,
+        "price": 52.93
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.4
+        }
+      ]
+    },
+    {
+      "id": 220,
+      "title": "Neon Quest 220",
+      "platform": "Genesis",
+      "release_year": 1993,
+      "developer": {
+        "name": "Studio 25",
+        "country": "US"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 52,
+        "price": 41.61
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.7
+        }
+      ]
+    },
+    {
+      "id": 221,
+      "title": "Neon Quest 221",
+      "platform": "Game Boy",
+      "release_year": 1992,
+      "developer": {
+        "name": "Studio 1",
+        "country": "US"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 6,
+        "price": 56.41
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.1
+        }
+      ]
+    },
+    {
+      "id": 222,
+      "title": "Neon Quest 222",
+      "platform": "Arcade",
+      "release_year": 1987,
+      "developer": {
+        "name": "Studio 2",
+        "country": "US"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 23,
+        "price": 27.47
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.9
+        }
+      ]
+    },
+    {
+      "id": 223,
+      "title": "Neon Quest 223",
+      "platform": "Genesis",
+      "release_year": 1995,
+      "developer": {
+        "name": "Studio 7",
+        "country": "Japan"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 27,
+        "price": 35.72
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.5
+        }
+      ]
+    },
+    {
+      "id": 224,
+      "title": "Neon Quest 224",
+      "platform": "NES",
+      "release_year": 1991,
+      "developer": {
+        "name": "Studio 12",
+        "country": "Japan"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 22,
+        "price": 77.51
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.7
+        }
+      ]
+    },
+    {
+      "id": 225,
+      "title": "Neon Quest 225",
+      "platform": "NES",
+      "release_year": 1990,
+      "developer": {
+        "name": "Studio 15",
+        "country": "US"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 37,
+        "price": 13.91
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.3
+        }
+      ]
+    },
+    {
+      "id": 226,
+      "title": "Neon Quest 226",
+      "platform": "Game Boy",
+      "release_year": 1988,
+      "developer": {
+        "name": "Studio 3",
+        "country": "US"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 88,
+        "price": 25.65
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.4
+        }
+      ]
+    },
+    {
+      "id": 227,
+      "title": "Neon Quest 227",
+      "platform": "Game Boy",
+      "release_year": 1983,
+      "developer": {
+        "name": "Studio 23",
+        "country": "UK"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 79,
+        "price": 58.28
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.8
+        }
+      ]
+    },
+    {
+      "id": 228,
+      "title": "Neon Quest 228",
+      "platform": "SNES",
+      "release_year": 1985,
+      "developer": {
+        "name": "Studio 9",
+        "country": "Japan"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 0,
+        "price": 44.47
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.5
+        }
+      ]
+    },
+    {
+      "id": 229,
+      "title": "Neon Quest 229",
+      "platform": "SNES",
+      "release_year": 1989,
+      "developer": {
+        "name": "Studio 5",
+        "country": "UK"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 45,
+        "price": 44.15
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.5
+        }
+      ]
+    },
+    {
+      "id": 230,
+      "title": "Neon Quest 230",
+      "platform": "SNES",
+      "release_year": 1991,
+      "developer": {
+        "name": "Studio 3",
+        "country": "US"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 84,
+        "price": 66.29
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.5
+        }
+      ]
+    },
+    {
+      "id": 231,
+      "title": "Neon Quest 231",
+      "platform": "NES",
+      "release_year": 1983,
+      "developer": {
+        "name": "Studio 22",
+        "country": "UK"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 48,
+        "price": 32.13
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.6
+        }
+      ]
+    },
+    {
+      "id": 232,
+      "title": "Neon Quest 232",
+      "platform": "Genesis",
+      "release_year": 1985,
+      "developer": {
+        "name": "Studio 5",
+        "country": "Japan"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 7,
+        "price": 79.64
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.6
+        }
+      ]
+    },
+    {
+      "id": 233,
+      "title": "Neon Quest 233",
+      "platform": "NES",
+      "release_year": 1987,
+      "developer": {
+        "name": "Studio 15",
+        "country": "Japan"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 99,
+        "price": 55.62
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.9
+        }
+      ]
+    },
+    {
+      "id": 234,
+      "title": "Neon Quest 234",
+      "platform": "NES",
+      "release_year": 1993,
+      "developer": {
+        "name": "Studio 21",
+        "country": "UK"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 54,
+        "price": 27.05
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.2
+        }
+      ]
+    },
+    {
+      "id": 235,
+      "title": "Neon Quest 235",
+      "platform": "Arcade",
+      "release_year": 1985,
+      "developer": {
+        "name": "Studio 7",
+        "country": "UK"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 6,
+        "price": 12.52
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.3
+        }
+      ]
+    },
+    {
+      "id": 236,
+      "title": "Neon Quest 236",
+      "platform": "Arcade",
+      "release_year": 1987,
+      "developer": {
+        "name": "Studio 9",
+        "country": "UK"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 67,
+        "price": 67.33
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.1
+        }
+      ]
+    },
+    {
+      "id": 237,
+      "title": "Neon Quest 237",
+      "platform": "Game Boy",
+      "release_year": 1987,
+      "developer": {
+        "name": "Studio 6",
+        "country": "UK"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 1,
+        "price": 14.75
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.3
+        }
+      ]
+    },
+    {
+      "id": 238,
+      "title": "Neon Quest 238",
+      "platform": "Arcade",
+      "release_year": 1985,
+      "developer": {
+        "name": "Studio 6",
+        "country": "UK"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 13,
+        "price": 55.34
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.9
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "title": "Neon Quest 239",
+      "platform": "NES",
+      "release_year": 1991,
+      "developer": {
+        "name": "Studio 15",
+        "country": "US"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 53,
+        "price": 71.87
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.1
+        }
+      ]
+    },
+    {
+      "id": 240,
+      "title": "Neon Quest 240",
+      "platform": "Arcade",
+      "release_year": 1988,
+      "developer": {
+        "name": "Studio 19",
+        "country": "Japan"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 68,
+        "price": 13.61
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.8
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "title": "Neon Quest 241",
+      "platform": "Genesis",
+      "release_year": 1991,
+      "developer": {
+        "name": "Studio 13",
+        "country": "Japan"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 79,
+        "price": 73.11
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.7
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "title": "Neon Quest 242",
+      "platform": "Genesis",
+      "release_year": 1995,
+      "developer": {
+        "name": "Studio 16",
+        "country": "Japan"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 4,
+        "price": 56.62
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.8
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "title": "Neon Quest 243",
+      "platform": "Arcade",
+      "release_year": 1994,
+      "developer": {
+        "name": "Studio 6",
+        "country": "US"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 37,
+        "price": 53.22
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.1
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "title": "Neon Quest 244",
+      "platform": "Game Boy",
+      "release_year": 1986,
+      "developer": {
+        "name": "Studio 2",
+        "country": "US"
+      },
+      "genre": "RPG",
+      "inventory": {
+        "stock": 37,
+        "price": 21.01
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.6
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "title": "Neon Quest 245",
+      "platform": "SNES",
+      "release_year": 1984,
+      "developer": {
+        "name": "Studio 6",
+        "country": "UK"
+      },
+      "genre": "Fighting",
+      "inventory": {
+        "stock": 17,
+        "price": 44.94
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.3
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "title": "Neon Quest 246",
+      "platform": "Game Boy",
+      "release_year": 1983,
+      "developer": {
+        "name": "Studio 5",
+        "country": "Japan"
+      },
+      "genre": "Platformer",
+      "inventory": {
+        "stock": 16,
+        "price": 23.16
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.2
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "title": "Neon Quest 247",
+      "platform": "Genesis",
+      "release_year": 1993,
+      "developer": {
+        "name": "Studio 9",
+        "country": "US"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 7,
+        "price": 29.98
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 8.3
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "title": "Neon Quest 248",
+      "platform": "Game Boy",
+      "release_year": 1983,
+      "developer": {
+        "name": "Studio 14",
+        "country": "Japan"
+      },
+      "genre": "Puzzle",
+      "inventory": {
+        "stock": 48,
+        "price": 73.89
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 6.2
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "title": "Neon Quest 249",
+      "platform": "Game Boy",
+      "release_year": 1986,
+      "developer": {
+        "name": "Studio 23",
+        "country": "US"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 96,
+        "price": 15.7
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 7.0
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "title": "Neon Quest 250",
+      "platform": "Game Boy",
+      "release_year": 1985,
+      "developer": {
+        "name": "Studio 13",
+        "country": "UK"
+      },
+      "genre": "Shooter",
+      "inventory": {
+        "stock": 68,
+        "price": 19.37
+      },
+      "reviews": [
+        {
+          "source": "RetroMag",
+          "score": 9.2
+        }
+      ]
+    }
+  ]
+}
